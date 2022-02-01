@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🔭 I’m currently working on **a research paper on Landslide Susceptibility Mapping in Uttarkashi, Uttrakhand**
+- 🔭 I’m currently working on **a Research paper on Landslide Susceptibility Mapping in Uttarkashi, Uttrakhand**
 
 - 🌱 I’m currently learning **Android App Development and some core CS Subjects like Computer Networks, OS and DBMS and also improving my coding (DSA) + Aptitude skills.**
 
