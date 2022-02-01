@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **churchil.rajpal15@gmail.com**
 
-- ⚡ Fun fact **The computer is mightier than the pen, the sword, and usually, the programmer.**
+- ⚡ **The computer is mightier than the pen, the sword, and usually, the programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
