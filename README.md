@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/churchil-yash-rajpal-4667681a4/)
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, Java, DSA**
 
 - 📫 How to reach me **churchil.rajpal15@gmail.com**
 
