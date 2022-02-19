@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=churchil15&show_icons=true&locale=en&theme=tokyonight" alt="churchil15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=churchil15&&theme=tokyonight" alt="churchil15" /></p>
+
+[![Churchil's github activity graph](https://activity-graph.herokuapp.com/graph?username=churchil15&theme=react-dark)](https://github.com/churchil15/github-readme-activity-graph)
