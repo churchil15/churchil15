@@ -1,4 +1,4 @@
-[![name](https://github.com/churchil15/churchil15/blob/main/new%20banner6.jpg)](https://github.com/churchil15)
+<!-- [![name](https://github.com/churchil15/churchil15/blob/main/new%20banner6.jpg)](https://github.com/churchil15) -->
 <h1 align="center">Hii 👋, I'm Churchil Yash Rajpal</h1>
 <h3 align="center">A Passionate Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=churchil15&&theme=tokyonight" alt="churchil15" /></p>
 
-[![Churchil's github activity graph](https://activity-graph.herokuapp.com/graph?username=churchil15&theme=react-dark)](https://github.com/churchil15/github-readme-activity-graph)
+<!-- [![Churchil's github activity graph](https://activity-graph.herokuapp.com/graph?username=churchil15&theme=react-dark)](https://github.com/churchil15/github-readme-activity-graph) -->
