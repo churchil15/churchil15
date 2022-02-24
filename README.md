@@ -1,5 +1,5 @@
 [![name](https://github.com/churchil15/churchil15/blob/main/new%20banner6.jpg)](https://github.com/churchil15)
-<!-- <h1 align="center">Hii <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Churchil Yash Rajpal</h1>  -->
+<h1 align="center">Hii <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Churchil Yash Rajpal</h1> 
 <h3 align="center">A Passionate Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
